@@ -1,4 +1,4 @@
-# react-boilerplate
+# React-Boilerplate
 Quickly get started with React and Flux using Browserify, Gulp and Babel
 
 ## This Boilerplate gives you the following:
