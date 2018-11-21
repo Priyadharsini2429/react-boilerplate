@@ -9,7 +9,7 @@ var source = require("vinyl-source-stream"); //Use conventional text stream with
 var concat = require("gulp-concat"); //Concatenates files
 
 var config = {
-  port: 9005,
+  port: 5000,
   devBaseUrl: "http://localhost",
   paths: {
     html: "./src/*.html",
