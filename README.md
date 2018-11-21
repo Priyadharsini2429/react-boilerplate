@@ -10,9 +10,7 @@ Quickly get started with React and Flux using Browserify, Gulp and Babel
   - compiles JSX and latest javascript using Babel   
   - bundles JS and CSS files  
   - migrates the built app to the dist folder  
-  - runs a dev webserver  
-  - opens your browser at the dev URL  
-  - reloads the browser upon save  
+  - runs a dev webserver and hot reloading
 
 ## To get started: 
 
